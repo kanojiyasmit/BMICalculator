@@ -1,0 +1,40 @@
+/* 
+ Localizable.strings
+ BMI
+ 
+ Created by Smit Kanojiya on 09/08/23.
+ 
+ */
+"Welcome to BMI Check"="Bienvenue dans le contrôle de l'IMC";
+"Fill the fields"="Remplissez les champs";
+"Increase your Health"="Améliorez votre santé";
+"Discover if you have the ideal body mass index in a simple and fast way"="Découvrez si vous avez l'indice de masse corporelle idéal de manière simple et rapide.";
+"Fill the custom fields of body weight and height for BMI Check to calculate your bmi"="Remplissez les champs personnalisés du poids corporel et de la taille pour le calcul de l'IMC.";
+"Use the final result to increase your own health and keep the ideal body mass index"="Utilisez le résultat final pour améliorer votre propre santé et maintenir l'indice de masse corporelle idéal.";
+"Get Started"= "Commencer";
+"Skip"= "Passer";
+"Settings"="Settings";
+"BMI Check"="Vérification de l'IMC";
+"Select Your Sex"="Sélectionnez votre sexe";
+"Male"="Homme";
+"Female"="Femme";
+"Select your height"="Sélectionnez votre taille";
+"Age"="Âge";
+"Weight"="Poids";
+"Calculate"="Calculer";
+"Underweight! You can aim for a BMI within the range of 18.5 to 24.9 for a healthier life."="Insuffisance pondérale ! Vous pouvez viser un IMC compris entre 18,5 et 24,9 pour une vie plus saine.";
+"Congratulations! The ideal BMI is between 18.5 and 24.9. Watch and keep this mark in your body mass index for an improved life quality."="Félicitations ! L'IMC idéal se situe entre 18,5 et 24,9. Surveillez et maintenez cette marque dans votre indice de masse corporelle pour une meilleure qualité de vie.";
+"Overweight! You can aim for a BMI within the range of 18.5 to 24.9 for a healthier life."="Surpoids ! Vous pouvez viser un IMC compris entre 18,5 et 24,9 pour une vie plus saine.";
+"You have the ideal BMI"="Vous avez l'IMC idéal";
+"Your BMI"="Votre IMC";
+"Settings"="Paramètres";
+"Weight Metrics"="Métriques de poids";
+"Height Metrics"="Métriques de hauteur";
+"Language"="Langue";
+"Theme"="Thème";
+"Grams"="Grammes";
+"Kilograms"="Kilogrammes";
+"Inches"="Pouces";
+"Meters"="Mètres";
+"Light"="Clair";
+"Dark"="Sombre";

@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  BMI
+
+  Created by Smit Kanojiya on 09/08/23.
+  
+*/
+"Welcome to BMI Check"="Welcome to BMI Check";
+"Fill the fields"="Fill the fields";
+"Increase your Health"="Increase your Health";
+"Discover if you have the ideal body mass index in a simple and fast way"="Discover if you have the ideal body mass index in a simple and fast way";
+"Fill the custom fields of body weight and height for BMI Check to calculate your bmi"="Fill the custom fields of body weight and height for BMI Check to calculate your bmi";
+"Use the final result to increase your own health and keep the ideal body mass index"="Use the final result to increase your own health and keep the ideal body mass index";
+"Get Started"="Get Started";
+"BMI Check"="BMI Check";
+"Skip"="Skip";
+"Settings"="Settings";
+"Weight Metrics"="Weight Metrics";
+"Height Metrics"="Height Metrics";
+"Language"="Language";
+"Theme"="Theme";
+"Grams"="Grams";
+"Kilograms"="Kilograms";
+"Inches"="Inches";
+"Meters"="Meters";
+"Light"="Light";
+"Dark"="Dark";

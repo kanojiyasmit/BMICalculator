@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  BMI
+
+  Created by Smit Kanojiya on 09/08/23.
+  
+*/
+
+"Welcome to BMI Check"="BMI Kontrolüne Hoş Geldiniz";
+"Fill the fields"="Alanları doldurun";
+"Increase your Health"="Sağlığınızı artırın";
+"Discover if you have the ideal body mass index in a simple and fast way"="İdeal vücut kitle indeksine sahip olup olmadığınızı basit ve hızlı bir şekilde keşfedin.";
+"Fill the custom fields of body weight and height for BMI Check to calculate your bmi"="BMI Kontrolü için vücut ağırlığı ve boy özelleştirilmiş alanlarını doldurun ve vücut kitle indeksinizi hesaplayın.";
+"Use the final result to increase your own health and keep the ideal body mass index"="Sonucu kullanarak kendi sağlığınızı artırın ve ideal vücut kitle indeksini koruyun.";
+"Get Started"= "Başla";
+"Skip"= "Atla";
+"BMI Check"="BMI Kontrolü";
+"Select Your Sex"="Cinsiyetinizi Seçin";
+"Male"="Erkek";
+"Female"="Kadın";
+"Select your height"="Boyunuzu Seçin";
+"Age"="Yaş";
+"Weight"="Ağırlık";
+"Calculate"="Hesapla";
+"Underweight! You can aim for a BMI within the range of 18.5 to 24.9 for a healthier life."="Zayıf! Daha sağlıklı bir yaşam için 18,5 ila 24,9 aralığındaki bir BMI hedefleyebilirsiniz.";
+"Congratulations! The ideal BMI is between 18.5 and 24.9. Watch and keep this mark in your body mass index for an improved life quality."="Tebrikler! İdeal BMI değeri 18,5 ile 24,9 arasındadır. Vücut kitle indeksinizi bu aralıkta tutarak yaşam kalitesini artırabilirsiniz.";
+"Overweight! You can aim for a BMI within the range of 18.5 to 24.9 for a healthier life."="Fazla kilolu! Daha sağlıklı bir yaşam için 18,5 ila 24,9 aralığındaki bir BMI hedefleyebilirsiniz.";
+"You have the ideal BMI"="İdeal BMI değerine sahipsiniz";
+"Your BMI"="BMI'nız";
+"Settings"="Ayarlar";
+"Weight Metrics"="Ağırlık Metrikleri";
+"Height Metrics"="Yükseklik Metrikleri";
+"Language"="Dil";
+"Theme"="Tema";
+"Grams"="Gram";
+"Kilograms"="Kilogram";
+"Inches"="İnç";
+"Meters"="Metre";
+"Light"="Açık";
+"Dark"="Koyu";

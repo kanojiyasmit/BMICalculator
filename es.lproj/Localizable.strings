@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  BMI
+
+  Created by Smit Kanojiya on 09/08/23.
+  
+*/
+
+"Welcome to BMI Check"="Bienvenido al control de IMC";
+"Fill the fields"="Complete los campos";
+"Increase your Health"="Mejora tu salud";
+"Discover if you have the ideal body mass index in a simple and fast way"="Descubre si tienes el índice de masa corporal ideal de una manera simple y rápida.";
+"Fill the custom fields of body weight and height for BMI Check to calculate your bmi"="Completa los campos personalizados de peso corporal y altura para el control del IMC y calcular tu IMC.";
+"Use the final result to increase your own health and keep the ideal body mass index"="Utiliza el resultado final para mejorar tu propia salud y mantener el índice de masa corporal ideal.";
+"Get Started"= "Empezar";
+"Skip"= "Saltar";
+"BMI Check"="Control de IMC";
+"Select Your Sex"="Selecciona tu sexo";
+"Male"="Hombre";
+"Female"="Mujer";
+"Select your height"="Selecciona tu altura";
+"Age"="Edad";
+"Weight"="Peso";
+"Calculate"="Calcular";
+"Underweight! You can aim for a BMI within the range of 18.5 to 24.9 for a healthier life."="¡Bajo peso! Puedes apuntar a un IMC dentro del rango de 18,5 a 24,9 para una vida más saludable.";
+"Congratulations! The ideal BMI is between 18.5 and 24.9. Watch and keep this mark in your body mass index for an improved life quality."="¡Felicidades! El IMC ideal está entre 18,5 y 24,9. Mantén esta marca en tu índice de masa corporal para mejorar la calidad de vida.";
+"Overweight! You can aim for a BMI within the range of 18.5 to 24.9 for a healthier life."="¡Sobrepeso! Puedes apuntar a un IMC dentro del rango de 18,5 a 24,9 para una vida más saludable.";
+"You have the ideal BMI"="Tienes el IMC ideal";
+"Your BMI"="Tu IMC";
+"Settings"="Configuración";
+"Weight Metrics"="Métricas de peso";
+"Height Metrics"="Métricas de altura";
+"Language"="Idioma";
+"Theme"="Tema";
+"Grams"="Gramos";
+"Kilograms"="Kilogramos";
+"Inches"="Pulgadas";
+"Meters"="Metros";
+"Light"="Claro";
+"Dark"="Oscuro";
+
