@@ -89,7 +89,6 @@
 		C145BD422A7022A700635A12 = {
 			isa = PBXGroup;
 			children = (
-				C11AAAD92A8358D90002B33B /* Localizable.strings */,
 				C145BD4D2A7022A700635A12 /* BMI */,
 				C145BD4C2A7022A700635A12 /* Products */,
 			);
@@ -106,6 +105,7 @@
 		C145BD4D2A7022A700635A12 /* BMI */ = {
 			isa = PBXGroup;
 			children = (
+				C11AAAD92A8358D90002B33B /* Localizable.strings */,
 				C17395B62A8F3DA800D9C54D /* Result */,
 				C1D1A25B2A7A7AA900F4AB8F /* Settings */,
 				C1D1A24E2A7A19CE00F4AB8F /* Home */,
